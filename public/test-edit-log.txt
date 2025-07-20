@@ -1,3 +1,7 @@
+Test Edit Applied at 2025-07-20T13:12:59.383Z
+Edit Request: Second test edit - verifying continuous deployment works
+App Name: NetlifyDeployTest
+
 Test Edit Applied at 2025-07-20T13:12:23.183Z
 Edit Request: Testing continuous deployment with Netlify GitHub App
 App Name: NetlifyDeployTest
